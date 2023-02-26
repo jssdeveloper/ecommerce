@@ -42,6 +42,6 @@
 
 <h1 align="center">Front End</h1>
 <ol>
-  <li>Create react app with <strong>npx create-react-app</strong></li>
-  <li>Start React webserver <strong>npm start</strong></li>
+  <li>Create react app: <strong>npx create-react-app</strong></li>
+  <li>Start React webserver: <strong>npm start</strong></li>
 </ol>
