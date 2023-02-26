@@ -1,3 +1,4 @@
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 <h1 align="center">Django, React, Postgres Ecommerce shop</h1>
 <h2 align="center">Main goals:</h2>
 <p align="center">Create a simple ecommerce platfrom to store and serve shop items. Including login and basket</p>
