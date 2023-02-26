@@ -1,6 +1,6 @@
 <p align="center">
   <img height="100" src="https://media.geeksforgeeks.org/wp-content/uploads/20200210175202/django-basics.png">
-   <img height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png">
+   <img height="100" style="margin-right: 20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png">
    <img height="100" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*7AOhGDnRL2eyJMUidCHZEA.jpeg">
 </p>
 
