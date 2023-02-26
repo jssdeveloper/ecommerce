@@ -1,3 +1,3 @@
 # ecommerce
 
-<h1 class="style.textAlign='center'">Django, React, Postgres Eshop</h1>
+<h1 style="text-align:center">Django, React, Postgres Eshop</h1>
