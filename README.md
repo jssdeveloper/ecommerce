@@ -8,6 +8,7 @@
   <li>React for front end</li>
   <li>Bootstrap for styling & components</li>
   <li>Postman for API testing</li>
+  <li>Linode for hosting and testing</li>
 </ol>
 
 <p>Vscode plugins:</p>
