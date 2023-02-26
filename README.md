@@ -1,6 +1,9 @@
 <p align="center">
   <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+   <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+   <img width="460" height="300" src="http://www.fillmurray.com/460/300">
 </p>
+
 <h1 align="center">Django, React, Postgres Ecommerce shop</h1>
 <h2 align="center">Main goals:</h2>
 <p align="center">Create a simple ecommerce platfrom to store and serve shop items. Including login and basket</p>
