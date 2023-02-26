@@ -1,7 +1,7 @@
 <p align="center">
   <img width="250" height="100" src="https://media.geeksforgeeks.org/wp-content/uploads/20200210175202/django-basics.png">
    <img width="115" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png">
-   <img width="200" height="200" src="http://www.fillmurray.com/460/300">
+   <img width="200" height="200" src="http://www.fillmurray.com/460/300](https://www.ovhcloud.com/sites/default/files/styles/large_screens_1x/public/2021-09/ECX-1909_Hero_PostgreSQL_600x400%402x.webp">
 </p>
 
 <h1 align="center">Django, React, Postgres Ecommerce shop</h1>
