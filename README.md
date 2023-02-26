@@ -1,7 +1,7 @@
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
-   <img width="460" height="300" src="http://www.fillmurray.com/460/300">
-   <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="200" height="200" src="http://www.fillmurray.com/460/300">
+   <img width="200" height="200" src="[http://www.fillmurray.com/460/300](https://miro.medium.com/v2/resize:fit:720/format:webp/1*33CwBYkmnMfpA9Djup22Jw.png)">
+   <img width="200" height="200" src="http://www.fillmurray.com/460/300">
 </p>
 
 <h1 align="center">Django, React, Postgres Ecommerce shop</h1>
