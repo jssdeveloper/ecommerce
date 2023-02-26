@@ -3,7 +3,7 @@
 </p>
 <br />
 
-<h1 align="center">Django, React, Postgres Ecommerce shop</h1>
+<h1 align="center">Django, React, Postgres ecommerce shop</h1>
 <br />
 
 <h2 align="center">Main goals:</h2>
