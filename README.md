@@ -16,3 +16,10 @@
   <li>ES7 React/Redux/GraphQL/React-Native snippets</li>
   <li>Prettier - Code formatter</li>
 </ol>
+
+<hr />
+
+<h1 align="center">Front End</h1>
+<ol>
+  <li>Create react app with npx <strong>create-react-app</strong></li>
+</ol>
