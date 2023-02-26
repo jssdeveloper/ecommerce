@@ -9,7 +9,7 @@
 <br />
 
 <h2 align="center">Main goals:</h2>
-<p align="center">Create a simple ecommerce platfrom to store and serve shop items. Including login and basket</p>
+<p>Create a simple ecommerce platfrom to store and serve shop items. Including login and basket, hosted on Linode using Gunicorn and Nginx</p>
 <br />
 
 <h2 align="center">Technologies used:</h2>
