@@ -1,6 +1,6 @@
 <p align="center">
   <img width="200" height="200" src="http://www.fillmurray.com/460/300">
-   <img width="200" height="200" src="[http://www.fillmurray.com/460/300](https://miro.medium.com/v2/resize:fit:720/format:webp/1*33CwBYkmnMfpA9Djup22Jw.png)">
+   <img width="200" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png">
    <img width="200" height="200" src="http://www.fillmurray.com/460/300">
 </p>
 
