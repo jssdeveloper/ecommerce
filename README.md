@@ -44,4 +44,8 @@
 <ol>
   <li>Create react app: <strong>npx create-react-app</strong></li>
   <li>Start React webserver: <strong>npm start</strong></li>
+  <li>Install React Bootstrap: <strong>https://react-bootstrap.github.io/getting-started/introduction</strong></li>
+  <li>Bootstrap themes: <strong>https://bootswatch.com/</strong></li>
+
+
 </ol>
