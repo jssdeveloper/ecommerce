@@ -10,7 +10,9 @@
 <p>Technologies used:</p>
 <ol>
   <li>Django for back end (API)</li>
-  <li>Postgres database</li>
+  <li>Postgres database
+    <li>Pgadmin for interacting with database</li>
+    </li>
   <li>React for front end</li>
   <li>Bootstrap for styling & components</li>
   <li>Postman for API testing</li>
