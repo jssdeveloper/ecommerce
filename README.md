@@ -12,7 +12,7 @@
 <p align="center">Create a simple ecommerce platfrom to store and serve shop items. Including login and basket</p>
 <br />
 
-<h2 align="center">Technologies used::</h2>
+<h2 align="center">Technologies used:</h2>
 <ol>
   <li>Django for back end (API)</li>
     <ul>
