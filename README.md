@@ -44,5 +44,5 @@
 
 <h1 align="center">Front End</h1>
 <ol>
-  <li>Create react app with npx <strong>create-react-app</strong></li>
+  <li>Create react app with <strong>npx create-react-app</strong></li>
 </ol>
