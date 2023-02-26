@@ -32,6 +32,7 @@
 <ol>
   <li>ES7 React/Redux/GraphQL/React-Native snippets</li>
   <li>Prettier - Code formatter</li>
+  <li>Auto Rename Tag</li>
 </ol>
 
 <hr />
