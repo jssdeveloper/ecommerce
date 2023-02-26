@@ -4,11 +4,15 @@
    <img height="100" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*7AOhGDnRL2eyJMUidCHZEA.jpeg">
 </p>
 <br />
+
 <h1 align="center">Django, React, Postgres Ecommerce shop</h1>
 <br />
+
 <h2 align="center">Main goals:</h2>
 <p align="center">Create a simple ecommerce platfrom to store and serve shop items. Including login and basket</p>
-<p>Technologies used:</p>
+<br />
+
+<h2 align="center">Technologies used::</h2>
 <ol>
   <li>Django for back end (API)</li>
     <ul>
