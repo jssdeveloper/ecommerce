@@ -10,6 +10,11 @@
 <p>Technologies used:</p>
 <ol>
   <li>Django for back end (API)</li>
+    <ul>
+      <li>
+        Django ORM
+      </li>
+    </ul>
   <li>Postgres database
     <ul>
       <li>
