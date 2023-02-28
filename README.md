@@ -41,7 +41,14 @@
   <li>Start React webserver: <strong>npm start</strong></li>
   <li>Install React Bootstrap: <strong>https://react-bootstrap.github.io/getting-started/introduction</strong></li>
   <li>Bootstrap themes: <strong>https://bootswatch.com/</strong></li>
-  <li>Icons (font awesome) via cdn : <strong>https://cdnjs.com/libraries/font-awesome</strong></li>
+  <li>Icons
+    <ul>
+      <li>Font Awesome : <strong>https://cdnjs.com/libraries/font-awesome</strong></li>
+      <li>Lineicons : <strong>https://lineicons.com/icons/</strong></li>
+  
+    </ul> 
+  
+  
 
 
 </ol>
