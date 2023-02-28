@@ -13,15 +13,11 @@
 <h2 align="center">Technologies used:</h2>
 <ol>
   <li>Django for back end (API)</li>
-    <ul>
-      <li>Django ORM</li>
-      <li>psycopg2 for interation with Postgresql</li>
-    </ul>
   <li>Postgres database
     <ul>
-      <li>
-        Pgadmin for interacting with database
-      </li>
+      <li>Django ORM for interacting with database</li>
+      <li>Psycopg2 ORM for interacting with database</li>
+      <li>Pgadmin for interacting with database</li>
     </ul>
   </li>
   <li>React for front end</li>
