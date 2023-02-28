@@ -48,8 +48,7 @@
       <li>Pictogrammers : <strong>https://pictogrammers.com/library/mdi/</strong></li>
       <li>Flaticon (colorful icons) : <strong>https://www.flaticon.com/</strong></li>
       <li>Streamlinehq (icons, emojis, colorful etc.) : <strong>https://www.streamlinehq.com/freebies</strong></li>
-      <li><strong></strong></li>
-      <li><strong></strong></li>
+      <li>Linearicons : <strong>https://linearicons.com/free</strong></li>
     </ul>
   </li>
 </ol>
