@@ -45,10 +45,6 @@
     <ul>
       <li>Font Awesome : <strong>https://cdnjs.com/libraries/font-awesome</strong></li>
       <li>Lineicons : <strong>https://lineicons.com/icons/</strong></li>
-  
     </ul> 
-  
-  
-
-
+  </li>
 </ol>
