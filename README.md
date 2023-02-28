@@ -12,18 +12,22 @@
 
 <h2 align="center">Technologies used:</h2>
 <ol>
-  <li>Django for back end (API)</li>
-  <li>Postgres database
+  <li>Django (Back end)
+    <ul>
+      <li>Django Rest Framework : <strong>https://www.django-rest-framework.org/</strong></li>
+    </ul>
+  </li>
+  <li>Postgres (database)
     <ul>
       <li>Django ORM for interacting with database</li>
       <li>Psycopg2 ORM for interacting with database</li>
       <li>Pgadmin for interacting with database</li>
     </ul>
   </li>
-  <li>React for front end</li>
-  <li>Bootstrap for styling & components</li>
-  <li>Postman for API testing</li>
-  <li>Linode for hosting and testing</li>
+  <li>React (front end)</li>
+  <li>Bootstrap (styling & components)</li>
+  <li>Postman (API testing)</li>
+  <li>Linode (hosting and testing)</li>
 </ol>
 
 <p>Vscode plugins:</p>
