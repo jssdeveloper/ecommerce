@@ -47,7 +47,7 @@
       <li>Lineicons : <strong>https://lineicons.com/icons/</strong></li>
       <li>Pictogrammers : <strong>https://pictogrammers.com/library/mdi/</strong></li>
       <li>Flaticon (colorful icons) : <strong>https://www.flaticon.com/</strong></li>
-      <li><strong></strong></li>
+      <li>Streamlinehq (icons, emojis, colorful etc.) : <strong>https://www.streamlinehq.com/freebies</strong></li>
       <li><strong></strong></li>
       <li><strong></strong></li>
     </ul>
