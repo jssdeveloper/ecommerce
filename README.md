@@ -56,3 +56,7 @@
     </ul>
   </li>
 </ol>
+
+<hr />
+<h1 align="center">Deployment</h1>
+https://www.netiq.com/documentation/identity-manager-47/setup_windows/data/connecting-to-a-remote-postgresql-database.html
