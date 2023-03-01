@@ -47,7 +47,7 @@
   <li>Bootstrap themes: <strong>https://bootswatch.com/</strong></li>
   <li>Icons
     <ul>
-      <li>Font Awesome : <strong>https://cdnjs.com/libraries/font-awesome</strong></li>
+      <li>Font Awesome : <strong>https://fontawesome.com/search?o=r&m=free</strong></li>
       <li>Lineicons : <strong>https://lineicons.com/icons/</strong></li>
       <li>Pictogrammers : <strong>https://pictogrammers.com/library/mdi/</strong></li>
       <li>Flaticon (colorful icons) : <strong>https://www.flaticon.com/</strong></li>
